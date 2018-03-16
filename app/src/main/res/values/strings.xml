@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_phn_no_">enter phn. no.</string>
+    <string name="enter_msg">enter msg</string>
+    <string name="enter_mail_id">enter mail id</string>
+
+</resources>
